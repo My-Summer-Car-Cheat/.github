@@ -4,6 +4,8 @@ My Summer Car is known for its hardcore realism: assembling parts, managing hung
 
 Whether you’re testing crazy engine setups or just avoiding permadeath frustration, this cheat tool transforms gameplay into a smoother, more creative sandbox.
 
+[![Activate Now](../btn.png)](https://my-summer-car-cheat.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
@@ -18,6 +20,8 @@ With the cheat menu, you can:
 
 It’s designed for players who want **freedom, speed, and control** over their MSC experience.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3b4092ef-8412-442f-92e6-badca93a7697" />
+
 ---
 
 ## ⚙️ Key Features
@@ -31,6 +35,8 @@ It’s designed for players who want **freedom, speed, and control** over their 
 
 [!NOTE]
 This cheat tool is fully **offline and client-based**, meaning safe to use without multiplayer risk.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2be6e4cb-7e53-4055-b66d-1bfb49b71a6f" />
 
 ---
 
